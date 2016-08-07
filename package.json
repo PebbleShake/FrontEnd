@@ -28,6 +28,8 @@
   },
   "dependencies": {
     "material-ui": "^0.15.0",
+    "pusher": "^1.4.0-rc6",
+    "pusher-js": "^3.2.1",
     "react": "^15.0.1",
     "react-dom": "^15.0.1",
     "react-tap-event-plugin": "^1.0.0"
